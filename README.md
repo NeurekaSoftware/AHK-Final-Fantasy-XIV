@@ -24,4 +24,4 @@ This script requires the following custom macros to be setup in FFXIV:
 /lockon on
 /automove on
 ```
-[^1]: You can setup a different key binding, but you will need to [edit the following line](https://douglasparker.dev/autohotkey/final-fantasy-xiv/-/blob/57f8d5af58125293814078a88d8d2a259d170064/scripts/island-sanctuary-farm.ahk#L26) in the AHK script.
+[^1]: You can setup a different key binding, but you will need to [edit the following line](https://github.com/douglasparker/ahk-final-fantasy-xiv/blob/0a7a7dcc313daca92fd3f78368e40f794158486c/scripts/island-sanctuary-farm.ahk#L26) in the AHK script.
